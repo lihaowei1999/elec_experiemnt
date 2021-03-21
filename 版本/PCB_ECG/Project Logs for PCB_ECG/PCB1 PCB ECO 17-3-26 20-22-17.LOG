@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetU1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetU1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-3
+Removed Pin From Net: NetName=VSS Pin=U1-4
+Removed Pin From Net: NetName=VCC Pin=U1-8
+Removed Member From Class: ClassName=Sheet1 Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Change Net Name : Old Net Name=NetU2_2 New Net Name=NetU1_6
